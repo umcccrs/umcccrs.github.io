@@ -1,0 +1,58 @@
+# Site settings
+# Name of your Site
+title: University of Manitoba AAPS Student Chapter (UMASC)
+email: 
+
+# Short description (goes below the title)
+description: University of Manitoba AAPS Student Chapter
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+baseurl: http://umaaps.github.io
+url: http://umaaps.github.io/
+projecturl: http://umaaps.github.io/projects/
+
+# Assets URL's
+assetsurl: http://umaaps.github.io/assets
+imageurl: http://umaaps.github.io/assets/images
+bootstrapurl: http://umaaps.github.io/assets/bootstrap
+
+# Static URL's
+staticurl: http://umaaps.github.io/assets
+
+# Build settings
+markdown: kramdown
+
+# Social Account
+twitter_name: 'UM_AAPS'
+twitter_creator: '@UM_AAPS'
+twitter_title: University of Manitoba AAPS Student Chapter
+twitter_description: University of Manitoba AAPS Student Chapter is the local student chapter of AAPS in Manitoba/Canada.
+
+# Your email if you want it to be linked on the contact page
+contact_email: umaaps.chapter@gmail.com
+web_email: chanyufei@gmail.com
+
+# Committee data
+committee_positions: [president, vp, secretary, treasurer]
+committee:
+  president:
+    name: Sarandeep Malhi
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: malhis@myumanitoba.ca
+    position: President
+  vp:
+    name: Jennifer Miller
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: vicepresident@strathseds.org
+    position: Vice-president
+  secretary:
+    name: Yufei Chen
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: umche355@myumanitoba.ca
+    position: Secretary
+  treasurer:
+    name: Sidi Yang
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: sidi.yang@umanitoba.ca
+    position: Treasurer
+
